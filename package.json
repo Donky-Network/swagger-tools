@@ -1,5 +1,5 @@
 {
-  "name": "swagger-tools",
+  "name": "@donky/swagger-tools",
   "version": "0.10.2",
   "description": "Various tools for using and integrating with Swagger.",
   "main": "index.js",
